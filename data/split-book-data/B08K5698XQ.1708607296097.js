@@ -1,0 +1,1 @@
+window.bookSummaryJSON = "It is London, 1885 — an alternate history, where the computer age has come 150 years early. In this world of airships, automatons, and computational engines, a family of Victorian science geniuses match wits and weapons against a criminal mastermind for the fate of the Empire."; 
